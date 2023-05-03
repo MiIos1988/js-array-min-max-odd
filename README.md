@@ -1,4 +1,5 @@
 Calculate Array
+
 This is a JavaScript function that takes an array of integers and calculates the minimum and maximum values as well as the number of odd numbers in the array.
 
 Usage
