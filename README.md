@@ -9,6 +9,7 @@ const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 calculateArray(arr);
 
 This will output the following to the console:
+
 Minimum: 1
 Maximum: 9
 Number of odd numbers: 5
