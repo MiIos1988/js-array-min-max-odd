@@ -1,0 +1,1 @@
+# js-array-min-max-odd
