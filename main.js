@@ -6,7 +6,6 @@ function calculateArray(arr) {
     console.log(`Minimum: ${min}`);
     console.log(`Maximum: ${max}`);
     console.log(`Number of odd numbers: ${oddCount}`);
-
 }
 
 const arr = [1, 2, 3, 4, 5];
